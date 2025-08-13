@@ -12,7 +12,7 @@ Contact Us – Direct email link for inquiries.
 Accessibility Considerations – Proper use of alt text and decorative image handling.
 
 ## File Structure
-***```**
+***```
 harbor-light/
 │
 ├── index.html   # Main HTML file
@@ -24,10 +24,9 @@ HTML5 – Structure and content
 CSS (Internal) – Basic styling
 
 ## How to View
-Clone the repository
-
-bash
-Copy
-Edit
+1- Clone the repository
+***```
 git clone https://github.com/yourusername/harbor-light.git
-Open the index.html file in your browser.
+**```*
+2- Open the index.html file in your browser.
+
